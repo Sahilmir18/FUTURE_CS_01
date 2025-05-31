@@ -1,6 +1,5 @@
 # FUTURE_CS_01
-It is the task 1 I have completed for my intership at FUTURE INTERNS 
-Sure! Here’s a polished and professional **LinkedIn post** you can use to reflect on your experience with web application security testing and creating the CVSS report for DVWA:
+It is the task 1 I have completed for my internship at FUTURE INTERNS 
 
 ---
 
